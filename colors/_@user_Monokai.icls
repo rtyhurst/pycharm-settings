@@ -3,10 +3,10 @@
     <property name="created">2016-12-07T11:38:52</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2016-12-07T11:59:29</property>
+    <property name="modified">2016-12-08T10:23:35</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="20" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
@@ -245,7 +245,6 @@
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="6ae96a" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
