@@ -16,7 +16,7 @@
         <entry key="anaconda-clean" value="1.0.2" />
         <entry key="anaconda-client" value="1.6.0" />
         <entry key="anaconda-navigator" value="1.3.2" />
-        <entry key="anaconda-verify" value="1.2.1" />
+        <entry key="anaconda-verify" value="1.3.0" />
         <entry key="ansi2html" value="1.1.1" />
         <entry key="appdirs" value="1.4.0" />
         <entry key="apptools" value="4.4.0" />
@@ -113,7 +113,7 @@
         <entry key="cx_oracle" value="5.2" />
         <entry key="cycler" value="0.10.0" />
         <entry key="cython" value="0.25.2" />
-        <entry key="cytoolz" value="0.8.1" />
+        <entry key="cytoolz" value="0.8.2" />
         <entry key="dask" value="0.12.0" />
         <entry key="datashader" value="0.4.0" />
         <entry key="datashape" value="0.5.2" />
@@ -256,7 +256,7 @@
         <entry key="lockfile" value="0.12.2" />
         <entry key="logilab-common" value="1.0.2" />
         <entry key="luigi" value="2.3.0" />
-        <entry key="lxml" value="3.6.4" />
+        <entry key="lxml" value="3.7.0" />
         <entry key="lz4" value="0.8.2" />
         <entry key="m2-autoconf" value="2.69" />
         <entry key="m2-autoconf2.13" value="2.13" />
@@ -538,7 +538,7 @@
         <entry key="nodejs" value="4.4.1" />
         <entry key="nose" value="1.3.7" />
         <entry key="nose-parameterized" value="0.5.0" />
-        <entry key="notebook" value="4.2.3" />
+        <entry key="notebook" value="4.3.0" />
         <entry key="nsis" value="3.0" />
         <entry key="numba" value="0.29.0" />
         <entry key="numbapro" value="0.23.1" />
@@ -716,7 +716,7 @@
         <entry key="thrift" value="0.9.3" />
         <entry key="thriftpy" value="0.3.8" />
         <entry key="tk" value="8.5.18" />
-        <entry key="toolz" value="0.8.1" />
+        <entry key="toolz" value="0.8.2" />
         <entry key="tornado" value="4.4.2" />
         <entry key="toro" value="1.0.1" />
         <entry key="traitlets" value="4.3.1" />
@@ -973,6 +973,7 @@
               <option value="1.2.1" />
               <option value="1.1.0" />
               <option value="1.2.0" />
+              <option value="1.3.0" />
             </list>
           </value>
         </entry>
@@ -2252,6 +2253,7 @@
               <option value="0.7.4" />
               <option value="0.7.1" />
               <option value="0.8.1" />
+              <option value="0.8.2" />
             </list>
           </value>
         </entry>
@@ -3702,6 +3704,7 @@
               <option value="3.0.2" />
               <option value="3.3.4" />
               <option value="3.2.1" />
+              <option value="3.7.0" />
             </list>
           </value>
         </entry>
@@ -5832,6 +5835,7 @@
               <option value="4.2.2" />
               <option value="4.0.6" />
               <option value="4.0.4" />
+              <option value="4.3.0" />
             </list>
           </value>
         </entry>
@@ -7857,6 +7861,7 @@
               <option value="0.7.2" />
               <option value="0.7.1" />
               <option value="0.7.0" />
+              <option value="0.8.2" />
             </list>
           </value>
         </entry>
@@ -8480,6 +8485,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1481488457559" />
+    <option name="LAST_TIME_CHECKED" value="1481642121360" />
   </component>
 </application>
