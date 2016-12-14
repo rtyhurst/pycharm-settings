@@ -85,7 +85,7 @@
         <entry key="comtypes" value="1.1.2" />
         <entry key="conda" value="4.2.13" />
         <entry key="conda-api" value="1.1.0" />
-        <entry key="conda-build" value="2.0.11" />
+        <entry key="conda-build" value="2.0.12" />
         <entry key="conda-env" value="2.6.0" />
         <entry key="conda-manager" value="0.4.0" />
         <entry key="conda-server" value="0.14.0" />
@@ -176,7 +176,7 @@
         <entry key="googlecl" value="0.9.12" />
         <entry key="grako" value="3.10.0" />
         <entry key="graphviz" value="2.38.0" />
-        <entry key="greenlet" value="0.4.10" />
+        <entry key="greenlet" value="0.4.11" />
         <entry key="grin" value="1.2.1" />
         <entry key="h2o" value="3.10.0.9" />
         <entry key="h2o-py" value="3.10.0.9" />
@@ -672,7 +672,7 @@
         <entry key="sas7bdat" value="2.0.7" />
         <entry key="scikit-image" value="0.12.3" />
         <entry key="scikit-learn" value="0.18.1" />
-        <entry key="scikit-rf" value="0.14.1" />
+        <entry key="scikit-rf" value="0.14.3" />
         <entry key="scikits-image" value="0.7.1" />
         <entry key="scipy" value="0.18.1" />
         <entry key="scons" value="2.3.0" />
@@ -1938,6 +1938,7 @@
               <option value="1.12.1" />
               <option value="1.8.2" />
               <option value="1.20.2" />
+              <option value="2.0.12" />
             </list>
           </value>
         </entry>
@@ -2899,6 +2900,7 @@
               <option value="0.4.5" />
               <option value="0.4.10" />
               <option value="0.4.2" />
+              <option value="0.4.11" />
             </list>
           </value>
         </entry>
@@ -7346,6 +7348,7 @@
           <value>
             <list>
               <option value="0.14.1" />
+              <option value="0.14.3" />
             </list>
           </value>
         </entry>
@@ -8485,6 +8488,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1481642121360" />
+    <option name="LAST_TIME_CHECKED" value="1481669452381" />
   </component>
 </application>
