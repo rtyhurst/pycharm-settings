@@ -13,7 +13,7 @@
         <entry key="alpaca_static" value="1.5.17" />
         <entry key="anaconda" value="4.2.0" />
         <entry key="anaconda-build" value="1.15.0" />
-        <entry key="anaconda-clean" value="1.0.2" />
+        <entry key="anaconda-clean" value="1.0.3" />
         <entry key="anaconda-client" value="1.6.0" />
         <entry key="anaconda-navigator" value="1.3.2" />
         <entry key="anaconda-verify" value="1.3.0" />
@@ -142,7 +142,7 @@
         <entry key="et_xmlfile" value="1.0.1" />
         <entry key="execnet" value="1.3.0" />
         <entry key="expressions" value="0.2.3" />
-        <entry key="fabric" value="1.11.1" />
+        <entry key="fabric" value="1.13.1" />
         <entry key="fastcache" value="1.0.2" />
         <entry key="faulthandler" value="2.4" />
         <entry key="feedparser" value="5.2.1" />
@@ -930,6 +930,7 @@
               <option value="1.0.2" />
               <option value="1.0.0" />
               <option value="1.0.1" />
+              <option value="1.0.3" />
             </list>
           </value>
         </entry>
@@ -2581,6 +2582,7 @@
               <option value="1.10.1" />
               <option value="1.10.2" />
               <option value="1.11.1" />
+              <option value="1.13.1" />
             </list>
           </value>
         </entry>
@@ -8499,6 +8501,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1481818940729" />
+    <option name="LAST_TIME_CHECKED" value="1481921197477" />
   </component>
 </application>
