@@ -2677,11 +2677,11 @@
         <entry key="flask">
           <value>
             <list>
+              <option value="0.12" />
+              <option value="0.11.1" />
               <option value="0.11" />
               <option value="0.10.1" />
               <option value="0.9" />
-              <option value="0.11.1" />
-              <option value="0.12" />
             </list>
           </value>
         </entry>
@@ -2695,8 +2695,8 @@
         <entry key="flask-login">
           <value>
             <list>
-              <option value="0.2.11" />
               <option value="0.3.2" />
+              <option value="0.2.11" />
             </list>
           </value>
         </entry>
@@ -8581,6 +8581,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1484001098214" />
+    <option name="LAST_TIME_CHECKED" value="1484072578451" />
   </component>
 </application>
