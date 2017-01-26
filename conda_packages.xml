@@ -10000,10 +10000,10 @@
         <entry key="seaborn">
           <value>
             <list>
-              <option value="0.5.1" />
-              <option value="0.6.0" />
               <option value="0.7.1" />
               <option value="0.7.0" />
+              <option value="0.6.0" />
+              <option value="0.5.1" />
               <option value="0.5.0" />
             </list>
           </value>
@@ -11118,6 +11118,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1485459544103" />
+    <option name="LAST_TIME_CHECKED" value="1485461633378" />
   </component>
 </application>
