@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="csv" type="Native" />
       <mapping pattern="test2" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
