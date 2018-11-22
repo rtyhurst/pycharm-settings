@@ -4,13 +4,14 @@
     <property name="created">2016-12-07T11:38:52</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2017-03-24T16:36:13</property>
+    <property name="modified">2018-11-12T12:11:31</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="CONSOLE_FONT_NAME" value="Consolas" />
-  <option name="CONSOLE_FONT_SIZE" value="20" />
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_SIZE" value="16" />
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3e3d32" />
@@ -3700,13 +3701,14 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_EMOJI_ID">
       <value>
-        <option name="FOREGROUND" value="5c8ae6" />
+        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="BACKGROUND" value="272822" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_EMOJI_MARKER">
       <value>
-        <option name="FOREGROUND" value="b347aa" />
+        <option name="FOREGROUND" value="ae81ff" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -7477,16 +7479,14 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_EMOJI_ID">
       <value>
-        <option name="FOREGROUND" value="5c8ae6" />
-        <option name="BACKGROUND" value="3300" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="BACKGROUND" value="153113" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_EMOJI_MARKER">
       <value>
-        <option name="FOREGROUND" value="b347aa" />
+        <option name="FOREGROUND" value="ae81ff" />
         <option name="BACKGROUND" value="3300" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_EXPLICIT_LINK">
@@ -9183,16 +9183,14 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_EMOJI_ID">
       <value>
-        <option name="FOREGROUND" value="5c8ae6" />
-        <option name="BACKGROUND" value="3333" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="BACKGROUND" value="15312e" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_EMOJI_MARKER">
       <value>
-        <option name="FOREGROUND" value="b347aa" />
+        <option name="FOREGROUND" value="ae81ff" />
         <option name="BACKGROUND" value="3333" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_EXPLICIT_LINK">
@@ -10889,16 +10887,14 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_EMOJI_ID">
       <value>
-        <option name="FOREGROUND" value="5c8ae6" />
-        <option name="BACKGROUND" value="404000" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="BACKGROUND" value="383813" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_EMOJI_MARKER">
       <value>
-        <option name="FOREGROUND" value="b347aa" />
+        <option name="FOREGROUND" value="ae81ff" />
         <option name="BACKGROUND" value="404000" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_EXPLICIT_LINK">
@@ -12561,14 +12557,13 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_EMOJI_ID">
       <value>
-        <option name="FOREGROUND" value="5c8ae6" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="BACKGROUND" value="272822" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_EMOJI_MARKER">
       <value>
-        <option name="FOREGROUND" value="b347aa" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="ae81ff" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_EXPLICIT_LINK">
@@ -14167,16 +14162,14 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_EMOJI_ID">
       <value>
-        <option name="FOREGROUND" value="5c8ae6" />
-        <option name="BACKGROUND" value="4500" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="BACKGROUND" value="153b13" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_EMOJI_MARKER">
       <value>
-        <option name="FOREGROUND" value="b347aa" />
+        <option name="FOREGROUND" value="ae81ff" />
         <option name="BACKGROUND" value="4500" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_EXPLICIT_LINK">
@@ -15873,16 +15866,14 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_EMOJI_ID">
       <value>
-        <option name="FOREGROUND" value="5c8ae6" />
-        <option name="BACKGROUND" value="3838" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="BACKGROUND" value="153431" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_EMOJI_MARKER">
       <value>
-        <option name="FOREGROUND" value="b347aa" />
+        <option name="FOREGROUND" value="ae81ff" />
         <option name="BACKGROUND" value="3838" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_EXPLICIT_LINK">
@@ -17579,16 +17570,14 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_EMOJI_ID">
       <value>
-        <option name="FOREGROUND" value="5c8ae6" />
-        <option name="BACKGROUND" value="454500" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="BACKGROUND" value="3a3b13" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_EMOJI_MARKER">
       <value>
-        <option name="FOREGROUND" value="b347aa" />
+        <option name="FOREGROUND" value="ae81ff" />
         <option name="BACKGROUND" value="454500" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_EXPLICIT_LINK">
@@ -19285,16 +19274,14 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_EMOJI_ID">
       <value>
-        <option name="FOREGROUND" value="5c8ae6" />
-        <option name="BACKGROUND" value="383838" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="BACKGROUND" value="333431" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_EMOJI_MARKER">
       <value>
-        <option name="FOREGROUND" value="b347aa" />
+        <option name="FOREGROUND" value="ae81ff" />
         <option name="BACKGROUND" value="383838" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_EXPLICIT_LINK">
