@@ -10,8 +10,12 @@
           <option name="url" value="C:\Users\rt\Documents\Visual Studio 2015\Projects\activityGenerator\.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mikeckennedy/write-pythonic-code-demos.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Prjs\" />
+    <option name="cloneParentDir" value="C:\Prjs" />
   </component>
 </application>
